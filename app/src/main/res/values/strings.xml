@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">test-android</string>
+    <string name="nama">M.HIDAYATULLAH</string>
+    <string name="alamat">UBUNG</string>
+    <string name="tanggal_lahir">25-10-2000</string>
+    <string name="suku">SASAK</string>
+    <string name="role">Full-Stack Web Developer</string>
+</resources>
